@@ -1,5 +1,10 @@
+import { Button } from "./components/ui/button";
+
 function App() {
-  return <div className="bg-sky-800 text-white font-extrabold">www.baidu.com</div>;
+  return <div className=" font-extrabold">www.baidu.com
+ <Button variant="default">Button</Button> 
+ <div className="bg-primary">zhiBo</div>
+  </div>;
 }
 
 export default App;
