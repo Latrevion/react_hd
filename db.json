@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "1607",
+      "title": " 权要真广相照养特业还。",
+      "views": 10
+    },
+    {
+      "id": "eeec",
+      "title": " 说理角安位及设低精。",
+      "views": 289
+    },
+    {
+      "id": "3466",
+      "title": " 选发较子角向之满素。",
+      "views": 240
+    },
+    {
+      "id": "a785",
+      "title": " 压农种科公农两组期。",
+      "views": 274
+    },
+    {
+      "id": "a48c",
+      "title": " 再说会值八市为务价强。",
+      "views": 43
+    },
+    {
+      "id": "083e",
+      "title": " 两定美术斯进行属。",
+      "views": 228
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
